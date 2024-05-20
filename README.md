@@ -1,8 +1,8 @@
 # Bit Land
 
-<img src="/static/game.png">
-
 Welcome to **Bit-Land**, a simple console-based game where you navigate a player character in a grid world, collecting entities to increase your score. This project is my first C++ program, and it's been a great learning experience!
+
+<img src="/static/game.png">
 
 ## Game Description
 
