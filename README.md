@@ -4,7 +4,7 @@ Welcome to **Bit-Land**, a simple console-based game where you navigate a player
 
 ## Game Description
 
-In Bit-Land, you control a player character represented by the symbol `1`. The goal is to collect as many entities as possible, represented by the symbol `0`, scattered randomly throughout the grid. Each time you collect an entity, your score increases by one.
+In Bit-Land, you control a player character represented by the symbol `1`. The goal is to collect a certain amount of entities, represented by the symbol `0`, scattered randomly throughout the grid. Each time you collect an entity, your score increases by one.
 
 ### How to Play
 
